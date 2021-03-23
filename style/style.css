@@ -155,3 +155,15 @@ body{
 } */
  /* <!-- classWork 10 --> */
 
+/*  classWork 12 */
+
+#cards{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+#cards>div{
+        padding: 25px 150px;
+        background-color: #ccc;
+
+}
